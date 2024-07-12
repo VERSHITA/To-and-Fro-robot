@@ -1,2 +1,2 @@
 # To-and-Fro-robot
-It was a path remembering robot car.
+A To-and-Fro motion robot is a path-remembering vehicle that replicates stored movements. Commonly used in manufacturing and assembly lines, these robots are programmed to move in specific directions, at certain speeds, and for set distances. For instance, the robot can be programmed to move forward a specific distance, then reverse and move backward the same distance. These robots often work alongside other automation systems to enhance production efficiency. They are also employed in various industries to perform repetitive tasks with high precision and accuracy.
